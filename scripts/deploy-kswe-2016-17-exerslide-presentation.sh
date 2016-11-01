@@ -1,6 +1,6 @@
 #!/bin/bash
 
-. "$0".config.sh
+. "$0".config
 
 TIMESTAMP=$(date "+%Y%m%d%H%M%S")
 REPO=${CONFIG_REPO}
