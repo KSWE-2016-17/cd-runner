@@ -51,5 +51,5 @@ git commit -m "Deploy updated presentation by webhook"
 echo "Committing built presentation ... [done]"
 
 echo "Pushing updated webpage ..."
-#git push origin gh-pages
+git push origin gh-pages
 echo "Pushing updated webpage ... [done]"
