@@ -21,7 +21,6 @@ echo "Setting git config ... [done]"
 
 echo "Building presentation ..."
 npm install
-npm install exerslide-cli
 npm run build
 echo "Building presentation ... [done]"
 
